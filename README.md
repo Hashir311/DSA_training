@@ -1,2 +1,3 @@
 # DSA_training
 Codes in technical training
+So this is created to store the various codes done in technical trainning classes...
